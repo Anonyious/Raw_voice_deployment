@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+librosa
+numpy
+whisper
+fpdf
+python-multipart
+aiofiles
+ffmpeg-python
